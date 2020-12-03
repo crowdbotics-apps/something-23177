@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'EmailAuth40181866', human_name: 'Email Auth 40', access_route: 'EmailAuth40181866', icon: 'envelope-o'},
 { name: 'BlankScreen38181865', human_name: 'Blank Screen 38', access_route: 'BlankScreen38181865'},
 { name: 'Maps32181864', human_name: 'Maps 32', access_route: 'Maps32181864', icon: 'map'},
 { name: 'Maps33181863', human_name: 'Maps 33', access_route: 'Maps33181863', icon: 'map'},
